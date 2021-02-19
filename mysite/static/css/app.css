@@ -1,0 +1,32 @@
+/* base.html */
+#main{
+  margin-top: 4%;
+}
+
+@media screen and (max-width:600px){
+  #main{
+    margin-top: 5%;
+  }
+}
+
+.card{
+  padding:20px;
+  color: #333;
+  background-color: white;
+
+}
+/* home.html */
+.fileicon{
+  width: 250px;
+  height: 250px;
+}
+@media screen and (max-width:600px){
+  .fileicon{
+    width: 50px;
+    height: 50px;
+  }
+}
+
+
+
+
